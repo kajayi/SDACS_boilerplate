@@ -1,0 +1,43 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-09-04 18:31-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: SDACS/settings/base.py:43 SDACS/settings/base.py:115
+msgid "English"
+msgstr "Anglès"
+
+#: SDACS/settings/base.py:44 SDACS/settings/base.py:116
+msgid "Catalan"
+msgstr "Català"
+
+#: SDACS/templates/SDACS/index.html:12
+msgid "Shut your mouth!"
+msgstr "Calla la boca!"
+
+#: SDACS/templates/SDACS/index.html:13
+msgid ""
+"This is a template for a simple marketing or informational website. \n"
+"            It includes a large callout called a jumbotron and three "
+"supporting pieces of \n"
+"            content. Use it as a starting point to create something more "
+"unique. "
+msgstr ""
+"Aquest és un avís per a una comercialització simple o lloc web informatiu."
+"Inclou una gran crida anomenat Jumbotron i tres peces de suport de"
+"contingut. Utilitzeu-lo com a punt de partida per crear alguna cosa més únic."

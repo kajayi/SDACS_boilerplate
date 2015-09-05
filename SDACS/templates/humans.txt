@@ -3,13 +3,14 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    K. Ajayi -- Supreme Overlord -- <twitter>
 
 # THANKS
 
-    <name>
+    All of you people that support that Supreme Overlord
 
 # TECHNOLOGY COLOPHON
-
+    Django
     HTML5, CSS3
     jQuery, Modernizr
+    Twitter Bootstrap
